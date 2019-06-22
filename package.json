@@ -1,5 +1,5 @@
 {
-  "description": "A random api",
+  "description": "An easy text encrypter api",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -14,6 +14,7 @@
   "license": "MIT",
   "keywords": [
     "node",
-    "express"
+    "express",
+    "encrypter"
   ]
 }
